@@ -1,0 +1,18 @@
+.serif {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .monospace {
+    font-family: "Lucida Console", Courier, monospace;
+  }
+  p.impact {
+    font-family: Impact, Charcoal, sans-serif;
+  }
+  body {
+    background-image: url('hammerguy.jpg');
+    background-size: cover
+    }
