@@ -1,13 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap%27'); 
-.serif {
-    font-family: "Times New Roman", Times, serif;
-  }
-  
-  .sansserif {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  
-  .monospace {
+
+.monospace {
     font-family: "font-family: 'Roboto', sans-serif";
   }
   p.impact {
